@@ -2,7 +2,8 @@
 
 ## Overview
 This repository contains all of the code needed for the spectral point sensor we designed. It is broken down into two 
-main folders: the transmitter and the receiver. 
+main folders: the transmitter and the receiver. You will also find a 3D model used to print a container for the XBee
+receiver module and the developer's board that it is connected to.
 
 ### Transmitter
 The transmitter folder contains all of the files needed for the FRDM board and the Arduino. This includes the code 
